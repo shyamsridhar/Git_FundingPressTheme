@@ -1,0 +1,17 @@
+/*
+Theme Name: Fundingpress
+Theme URI: http://www.skywarriorthemes.com/fundingpress
+Author: Skywarrior themes
+Author URI: http://www.skywarriorthemes.com/
+Description: Fundingpress is a Wordpress theme that allows you to create your own crowdfunding site. Users will be able to create projects that are brought to life through the direct support of others.
+Version: 4.1.7
+License: Skywarrior Themes. All rights reserved.
+License URI: http://themeforest.net/user/Skywarrior
+Tags: two-columns, custom-header, custom-background, threaded-comments, sticky-post, translation-ready, microformats, rtl-language-support, editor-style, custom-menu
+Text Domain: fundingpress
+*/
+
+@import url('css/bootstrap.css');
+@import url('css/bootstrap-fixes.css');
+@import url('css/main.css');
+@import url('css/woocommerce.css');
